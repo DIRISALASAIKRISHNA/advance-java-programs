@@ -1,0 +1,7 @@
+127.0.0.1 - - [06/Feb/2024:18:33:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:33:20 +0530] "GET /LoginApplication/Login.html HTTP/1.1" 200 605
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:33:20 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:33:57 +0530] "GET /LoginApplication/LoginServlet?Username=Sathya&password=Sathya%40123 HTTP/1.1" 200 43
+127.0.0.1 - - [06/Feb/2024:18:37:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:37:35 +0530] "GET /LoginApplication/Login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:37:51 +0530] "GET /LoginApplication/LoginServlet?Username=Sathya&password=Sathya%40123 HTTP/1.1" 200 63

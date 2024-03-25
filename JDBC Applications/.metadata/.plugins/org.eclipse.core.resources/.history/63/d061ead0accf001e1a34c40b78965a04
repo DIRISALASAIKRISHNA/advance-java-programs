@@ -1,0 +1,15 @@
+package com.sathya;
+
+public class Test {
+
+	public static void main(String[] args) throws ClassNotFoundException {
+		
+	//  step 1: Load the driver(it is automatically register in DriverManagerService)
+		Class.forName("oracle.jdbc.driver.OracleDriver");
+		System.out.println("Driver loading process completed Successfully...."); 
+		//goto buildpath and configure buid path &libraries& select location of "ojdbc6.jar"
+	}
+	
+	//step 2:
+
+}
